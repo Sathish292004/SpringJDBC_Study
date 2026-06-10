@@ -1,7 +1,7 @@
-package Sathish292004.JBDC;
+package Sathish292004.JDBC;
 
-import Sathish292004.JBDC.model.Student;
-import Sathish292004.JBDC.service.StudentService;
+import Sathish292004.JDBC.model.Student;
+import Sathish292004.JDBC.service.StudentService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

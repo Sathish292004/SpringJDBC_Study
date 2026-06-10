@@ -1,7 +1,7 @@
-package Sathish292004.JBDC.service;
+package Sathish292004.JDBC.service;
 
-import Sathish292004.JBDC.Repo.StudentRepo;
-import Sathish292004.JBDC.model.Student;
+import Sathish292004.JDBC.Repo.StudentRepo;
+import Sathish292004.JDBC.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

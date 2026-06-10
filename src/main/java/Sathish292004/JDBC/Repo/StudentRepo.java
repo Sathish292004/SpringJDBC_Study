@@ -1,7 +1,7 @@
-package Sathish292004.JBDC.Repo;
+package Sathish292004.JDBC.Repo;
 
 
-import Sathish292004.JBDC.model.Student;
+import Sathish292004.JDBC.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;

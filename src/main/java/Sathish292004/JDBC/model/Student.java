@@ -1,4 +1,4 @@
-package Sathish292004.JBDC.model;
+package Sathish292004.JDBC.model;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
